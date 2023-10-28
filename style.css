@@ -2,7 +2,7 @@ body {
     font: 16px/28px arial, sans-serif;
     background-color: #eaeaea;
     color: #333;
-    background-image: url(danau toba.jpeg);
+    background-image: url(https://user-images.githubusercontent.com/144677172/278831672-18da8ead-39b2-450f-9f66-13a276e4dd76.jpeg);
     background-size: cover;
     background-attachment: fixed;
   }
@@ -42,7 +42,7 @@ body {
   
   .hero {
     height: 380px;
-    background-image: url(danau toba background.jpeg);
+    background-image: url(https://user-images.githubusercontent.com/144677172/278831680-41b2247a-e1bc-4d27-8d2a-44c5ecb521ce.jpg);
     background-size: cover;
     background-position: 0 -75px;
     outline-style: solid;
